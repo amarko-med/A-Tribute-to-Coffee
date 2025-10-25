@@ -18,7 +18,7 @@
 
 <p>
   <img src="images/Screenshot%202025-10-25%20163205.png" alt="1" width="35%">
-  <img src="coffee.jpg" alt="3" width="37%">
+  <img src="coffee.jpg" alt="3" width="35%">
   <img src="images/Screenshot%202025-10-25%20163300.png" alt="2" width="27%">
 
 </p>
