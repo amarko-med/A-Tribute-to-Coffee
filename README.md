@@ -17,8 +17,8 @@
 <h2>📸 Screenshots</h2>
 
 <p>
-  <img src="images/Screenshot%202025-06-15%20130215.png" alt="Hauptansicht" width="35%">
-  <img src="images/Screenshot%202025-06-15%20130323.png" alt="Übungsmodus" width="35%">
+  <img src="images/Screenshot%202025-10-25%20163205.png" alt="1" width="35%">
+  <img src="images/Screenshot%202025-10-25%20163300.png" alt="2" width="27%">
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ☕ Coffee-Tribute-Page/
 ├── index.html      ← Hauptseite
 ├── styles.css      ← Styles und Layout
-└── images/         ← Kaffee-bezogene Bilder
+└── images/         ← Screenshots
 </pre>
 
 ---
